@@ -1,0 +1,36 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "cn.pre.cf.SwaggerProperties",
+      "name": "swagger",
+      "type": "cn.pre.cf.SwaggerProperties"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "cn.pre.cf.SwaggerProperties",
+      "name": "swagger.title",
+      "type": "java.lang.String",
+      "description": "标题"
+    },
+    {
+      "sourceType": "cn.pre.cf.SwaggerProperties",
+      "name": "swagger.description",
+      "type": "java.lang.String",
+      "description": "描述"
+    },
+    {
+      "sourceType": "cn.pre.cf.SwaggerProperties",
+      "name": "swagger.version",
+      "type": "java.lang.String",
+      "description": "版本"
+    },
+    {
+      "sourceType": "cn.pre.cf.SwaggerProperties",
+      "name": "swagger.scanPackage",
+      "type": "java.lang.String",
+      "description": "扫描包"
+    }
+  ]
+}
