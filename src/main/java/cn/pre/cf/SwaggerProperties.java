@@ -21,5 +21,4 @@ public class SwaggerProperties {
 
     private String version;
 
-    private String scanPackage;
 }

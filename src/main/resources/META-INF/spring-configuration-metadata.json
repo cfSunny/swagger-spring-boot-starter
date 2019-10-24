@@ -25,12 +25,6 @@
       "name": "swagger.version",
       "type": "java.lang.String",
       "description": "版本"
-    },
-    {
-      "sourceType": "cn.pre.cf.SwaggerProperties",
-      "name": "swagger.scanPackage",
-      "type": "java.lang.String",
-      "description": "扫描包"
     }
   ]
 }
