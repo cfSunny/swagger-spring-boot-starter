@@ -49,7 +49,7 @@ public class SwaggerConfiguration {
 
     private List<Parameter> getParameters() {
         ParameterBuilder ticketPar = new ParameterBuilder();
-        List<Parameter> pars = new ArrayList<Parameter>();
+        List<Parameter> pars = new ArrayList(3);
         ticketPar.name("Token").description("user Token")
                 .modelRef(new ModelRef("string")).parameterType("header")
                 .required(false).build();
